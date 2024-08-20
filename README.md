@@ -21,7 +21,7 @@ javaの環境構築が必要な方は次の資料に飛んでください
 
 go to part0 (sorry not yet)
 
-#LICENCE
+# LICENCE
 
 MIT
 
