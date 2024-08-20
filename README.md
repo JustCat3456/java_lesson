@@ -4,7 +4,11 @@
 
 
 
-'''gitbash.cmd
+```md
 # リポジトリのクローン
 git clone 
-'''
+```
+
+
+[!NOTE]
+もし git の環境構築ができてない場合は[ここから](https://docs.google.com/presentation/d/1xSWBKu-rPGJ7vYiRrm72UvACdNRMTLPCBWk9dQlg7CY/edit#slide=id.g2f11d25bc9b_0_9)
