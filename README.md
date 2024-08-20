@@ -6,9 +6,9 @@
 
 ```md
 # リポジトリのクローン
-git clone 
+git clone https://github.com/JustCat3456/java_lesson.git
 ```
 
 
-[!NOTE]
-もし git の環境構築ができてない場合は[ここから](https://docs.google.com/presentation/d/1xSWBKu-rPGJ7vYiRrm72UvACdNRMTLPCBWk9dQlg7CY/edit#slide=id.g2f11d25bc9b_0_9)
+>[!NOTE]
+>もし git の環境構築ができてない場合は[ここから](https://docs.google.com/presentation/d/1xSWBKu-rPGJ7vYiRrm72UvACdNRMTLPCBWk9dQlg7CY/edit#slide=id.g2f11d25bc9b_0_9)
