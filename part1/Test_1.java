@@ -12,7 +12,7 @@ public class Test_1 {
 
 
         // 次の文字列を足して文章を出力せよ
-        String str1 = "Ryukyu";
+        String str1 = "University of Ryukyu";
         String str2 = "is";
         String str3 = "in";
         String str4 = "Okinawa";
