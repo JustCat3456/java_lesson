@@ -19,7 +19,7 @@ git clone https://github.com/JustCat3456/java_lesson.git
 # 環境構築
 javaの環境構築が必要な方は次の資料に飛んでください
 
-go to part0 (sorry not yet)
+スライド：[part0](https://docs.google.com/presentation/d/1lCH-qXEnX-DOkh1mO9HDAKTuva4rpODlIfX8Jl-URm4/edit?usp=sharing)
 
 # LICENCE
 
