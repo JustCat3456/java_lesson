@@ -1,4 +1,4 @@
-Hello_worldo world!
+class Hello_world {
 public void main(String[] args) {
     // print "Hello World!" to the console
 
@@ -6,7 +6,7 @@ public void main(String[] args) {
     // 答え System.out.println("Hello World!");
 }
 
-
+}
 
 
 

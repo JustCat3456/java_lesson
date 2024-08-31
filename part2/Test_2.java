@@ -2,7 +2,7 @@ package part2;
 
 public class Test_2 {
    
-    public static void main(String args){
+    public static void main(String[] args){
 
         // 1. FizzBuzz問題
         // 1から100までの数字を利用して

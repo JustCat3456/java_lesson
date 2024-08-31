@@ -2,7 +2,7 @@ public class Array {
   // ここからは配列について学びます
   
 
-  public static void main (Strings args){
+  public static void main (String[] args){
     // 配列の宣言
     // 型[] 配列名 = new 型[要素数];
     // 例
