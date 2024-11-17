@@ -1,5 +1,4 @@
-[view in Github](https://github.com/JustCat3456/java_lesson) [Homepageに移動する](https://justcat3456.github.io/java_lesson/)
-
+[view on Github](https://github.com/JustCat3456/java_lesson) [view on HTML](https://justcat3456.github.io/java_lesson/) [Homepageに戻る](https://justcat3456.github.io/)
 
 # Welcome to Java lesson for Robot Club of University of Ryukyu
 
