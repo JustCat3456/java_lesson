@@ -1,6 +1,16 @@
 # Welcome to Java lesson for Robot Club of University of Ryukyu
 
-<a href="https://github.com/JustCat3456/java_lesson"><button class="favorite styled" type="button">view on Github</button></a>
+<script>
+  // GitHub Pages の場合のみ実行
+  if (window.location.hostname === 'your-username.github.io') {
+    // 'View on GitHub' リンクの要素を取得
+    var viewOnGitHubLink = document.querySelector('.github-btn');
+    // リンクを非表示にする
+    if (viewOnGitHubLink) {
+      viewOnGitHubLink.style.display = 'none';
+    }
+  }
+</script>
 
 このリポジトリは、琉球大学Robotサークルの人向けに行う「Java講習会」の Hand on 資料です。
 
