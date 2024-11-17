@@ -1,4 +1,5 @@
 # Welcome to Java lesson for Robot Club of University of Ryukyu
+<a href="https://github.com/JustCat3456/java_lesson"> <div class="btn-square"><i class="fab fa-github"></i> View on GitHub</div></a>
 
 このリポジトリは、琉球大学Robotサークルの人向けに行う「Java講習会」の Hand on 資料です。
 
